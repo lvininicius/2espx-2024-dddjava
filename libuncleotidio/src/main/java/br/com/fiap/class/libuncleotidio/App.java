@@ -1,4 +1,4 @@
-package br.com.fiap.class.conexaodb;
+package br.com.fiap.class.libuncleotidio;
 
 /**
  * Hello world!
