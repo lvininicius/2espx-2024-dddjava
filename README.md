@@ -7,6 +7,10 @@ Material didático utilizado no curso de "Domain-driven-design com Java" para a 
 
 ## Troubleshotting
 
+### Fazendo Fork do projeto
+
+- https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo
+
 ### Atualizando Fork
 
 ```bash
